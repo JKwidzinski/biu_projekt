@@ -6,7 +6,7 @@ import ShoppingBasketIcon from '@mui/icons-material/ShoppingBasket';
 function Header() {
   return (
     <div className='header'>
-        <img className='headerLogo' src='../constants/logo.png' alt='Logo'
+        <img className='headerLogo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo%21_Logo.svg/800px-Logo%21_Logo.svg.png' alt='Logo'
         />
         <div className='headerSearch'>
             <input className='headerSearchInput' type='text'/>

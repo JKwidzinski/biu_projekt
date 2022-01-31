@@ -1,5 +1,5 @@
 .header {
-    height: 50px;
+    height: 60px;
     display: flex;
     align-items: center;
     background-color: black;
@@ -12,7 +12,7 @@
     width: 100px;
     object-fit: contain;
     margin: 0 20px;
-    margin-top: 18px;
+    margin-top: 3px;
 }
 
 .headerSearch{
